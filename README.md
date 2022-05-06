@@ -1,4 +1,4 @@
-# Transformer-re
+# Transformer
 Implementation of paper "Attention is all you need"
 
 ### Requirement
